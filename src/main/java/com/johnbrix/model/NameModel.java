@@ -1,7 +1,8 @@
-package com.johnbrix;
+package com.johnbrix.model;
 
-public class Pojo {
-    private String fName,mName,lName;
+
+public class NameModel {
+    private String fName, mName, lName;
 
     public String getfName() {
         return fName;
